@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="jetty-all-server-7.0.2.RC0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/jetty-alpn-client-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-alpn-server-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-annotations-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-cdi-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-client-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-continuation-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-deploy-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-http-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-io-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-jaas-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-jaspi-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-jmx-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-jndi-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-plus-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-proxy-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-quickstart-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-rewrite-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-security-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-server-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-servlet-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-servlets-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-util-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-webapp-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jetty-xml-9.2.13.v20150730.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/servlet-api-3.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/jar/annotations" />
+      <root url="file://$PROJECT_DIR$/jar/apache-jsp" />
+      <root url="file://$PROJECT_DIR$/jar/apache-jstl" />
+      <root url="file://$PROJECT_DIR$/jar/fcgi" />
+      <root url="file://$PROJECT_DIR$/jar/jaspi" />
+      <root url="file://$PROJECT_DIR$/jar/jndi" />
+      <root url="file://$PROJECT_DIR$/jar/jsp" />
+      <root url="file://$PROJECT_DIR$/jar/monitor" />
+      <root url="file://$PROJECT_DIR$/jar/setuid" />
+      <root url="file://$PROJECT_DIR$/jar/spdy" />
+      <root url="file://$PROJECT_DIR$/jar/spring" />
+      <root url="file://$PROJECT_DIR$/jar/websocket" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/jar/setuid" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/jar/annotations" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/apache-jsp" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/apache-jstl" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/fcgi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/jaspi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/jndi" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/jsp" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/monitor" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/setuid" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/spdy" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/spring" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/jar/websocket" recursive="false" />
+  </library>
+</component>
